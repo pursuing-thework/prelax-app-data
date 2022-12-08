@@ -9,7 +9,7 @@ beautifulsoup4==4.9.0
 bottle==0.12.18
 bottle-websocket==0.2.9
 cachetools==4.1.1
-certifi==2020.4.5.1
+certifi==2022.12.7
 cffi==1.14.0
 chardet==3.0.4
 chromedriver-binary==83.0.4103.39.0
